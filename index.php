@@ -2,9 +2,6 @@
 /**
  * ETSU YAHAYA ABUBAKAR POLYTECHNIC MINNA - Complete Portal System
  * Affiliation: NUHU BAMALI POLYTECHNIC, ZARIA
- * 
- * This is a standalone file that creates the database tables automatically.
- * Just place this file in your web server directory and access it.
  */
 
 // ========== DATABASE CONFIGURATION ==========
